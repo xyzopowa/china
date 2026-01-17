@@ -48,40 +48,188 @@ entries:
       url: /beijing_overview.html
       output: web, pdf
 
+    - title: Preparation & Tickets
+      url: /beijing_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /beijing_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /beijing_culinary.html
+      output: web, pdf
+
+    - title: Forbidden City
+      url: /beijing_forbidden_city.html
+      output: web, pdf
+
     - title: Dongcheng District
       url: /beijing_dongcheng.html
       output: web, pdf
 
-    - title: Gubei Water Town
-      url: /beijing_gubei.html
+    - title: Tiananmen Square
+      url: /beijing_tiananmen.html
       output: web, pdf
 
-    - title: Mutianyu Great Wall
-      url: /beijing_mutianyu.html
+    - title: Temple of Heaven
+      url: /beijing_temple_heaven.html
+      output: web, pdf
+
+    - title: Summer Palace
+      url: /beijing_summer_palace.html
+      output: web, pdf
+
+    - title: Beihai Park
+      url: /beijing_beihai_park.html
+      output: web, pdf
+
+    - title: Jingshan Park
+      url: /beijing_jingshan_park.html
+      output: web, pdf
+
+    - title: Bell & Drum Tower
+      url: /beijing_bell_drum_tower.html
+      output: web, pdf
+
+    - title: Hutongs
+      url: /beijing_hutongs.html
+      output: web, pdf
+
+    - title: 798 Art Zone
+      url: /beijing_798_art.html
       output: web, pdf
 
     - title: Chaoyang District
       url: /beijing_chaoyang.html
       output: web, pdf
 
-  - title: Xian
+    - title: Night Markets
+      url: /beijing_night_markets.html
+      output: web, pdf
+
+    - title: Shopping
+      url: /beijing_shopping.html
+      output: web, pdf
+
+    - title: Mutianyu Great Wall
+      url: /beijing_mutianyu.html
+      output: web, pdf
+
+    - title: Gubei Water Town
+      url: /beijing_gubei.html
+      output: web, pdf
+
+    - title: Day Trips from Beijing
+      url: /beijing_daytrips.html
+      output: web, pdf
+
+  - title: Pingyao
     output: web, pdf
     folderitems:
 
-    - title: Xian Overview
+    - title: Pingyao Overview
+      url: /pingyao_overview.html
+      output: web, pdf
+
+    - title: Ancient City
+      url: /pingyao_ancient_city.html
+      output: web, pdf
+
+  - title: Datong
+    output: web, pdf
+    folderitems:
+
+    - title: Datong Overview
+      url: /datong_overview.html
+      output: web, pdf
+
+    - title: Hanging Monastery
+      url: /datong_hanging_monastery.html
+      output: web, pdf
+
+    - title: Yungang Grottoes
+      url: /datong_yungang.html
+      output: web, pdf
+
+  - title: Xi'an
+    output: web, pdf
+    folderitems:
+
+    - title: Xi'an Overview
       url: /xian_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /xian_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /xian_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /xian_culinary.html
       output: web, pdf
 
     - title: Terracotta Army
       url: /xian_terracotta.html
       output: web, pdf
 
+    - title: Small Wild Goose Pagoda
+      url: /xian_pagoda.html
+      output: web, pdf
+
+    - title: Dance Show
+      url: /xian_dance_show.html
+      output: web, pdf
+
+    - title: Xi'an City
+      url: /xian_city.html
+      output: web, pdf
+
     - title: Mt Huashan
       url: /xian_huashan.html
       output: web, pdf
 
-    - title: Xian City
-      url: /xian_city.html
+  - title: Chengdu
+    output: web, pdf
+    folderitems:
+
+    - title: Chengdu Overview
+      url: /chengdu_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /chengdu_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /chengdu_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /chengdu_culinary.html
+      output: web, pdf
+
+    - title: Giant Panda Base
+      url: /chengdu_pandas.html
+      output: web, pdf
+
+    - title: Leshan Giant Buddha
+      url: /chengdu_leshan.html
+      output: web, pdf
+
+    - title: Jinsha Museum
+      url: /chengdu_jinsha.html
+      output: web, pdf
+
+    - title: People's Park
+      url: /chengdu_peoples_park.html
+      output: web, pdf
+
+    - title: Day Trips
+      url: /chengdu_daytrips.html
       output: web, pdf
 
   - title: Chongqing
@@ -90,6 +238,14 @@ entries:
 
     - title: Chongqing Overview
       url: /chongqing_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /chongqing_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /chongqing_stay.html
       output: web, pdf
 
     - title: City Attractions
@@ -114,4 +270,100 @@ entries:
 
     - title: River Cruise
       url: /yichang_cruise.html
+      output: web, pdf
+
+  - title: Shanghai
+    output: web, pdf
+    folderitems:
+
+    - title: Shanghai Overview
+      url: /shanghai_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /shanghai_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /shanghai_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /shanghai_culinary.html
+      output: web, pdf
+
+    - title: The Bund
+      url: /shanghai_bund.html
+      output: web, pdf
+
+    - title: Pudong District
+      url: /shanghai_pudong.html
+      output: web, pdf
+
+    - title: Shanghai Museum
+      url: /shanghai_museum.html
+      output: web, pdf
+
+    - title: Yu Garden
+      url: /shanghai_yu_garden.html
+      output: web, pdf
+
+    - title: Nanjing Road
+      url: /shanghai_nanjing_road.html
+      output: web, pdf
+
+    - title: Maglev Train Experience
+      url: /shanghai_maglev.html
+      output: web, pdf
+
+    - title: Night River Cruise
+      url: /shanghai_cruise.html
+      output: web, pdf
+
+    - title: Art & Culture
+      url: /shanghai_art_culture.html
+      output: web, pdf
+
+    - title: Day Trips - Water Towns
+      url: /shanghai_water_towns.html
+      output: web, pdf
+
+    - title: Day Trips - Suzhou
+      url: /shanghai_suzhou.html
+      output: web, pdf
+
+    - title: Day Trips - Hangzhou
+      url: /shanghai_hangzhou.html
+      output: web, pdf
+
+  - title: Guilin
+    output: web, pdf
+    folderitems:
+
+    - title: Guilin Overview
+      url: /guilin_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /guilin_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /guilin_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /guilin_culinary.html
+      output: web, pdf
+
+    - title: Li River Cruise
+      url: /guilin_li_river.html
+      output: web, pdf
+
+    - title: Reed Flute Cave
+      url: /guilin_reed_flute.html
+      output: web, pdf
+
+    - title: Yangshuo Day Trip
+      url: /guilin_yangshuo.html
       output: web, pdf
