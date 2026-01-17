@@ -9,6 +9,9 @@ summary: Discover Gubei Water Town, a picturesque destination at the foot of the
 
 ## Gubei Water Town (古北水镇)
 
+![Gubei Water Town](https://images.unsplash.com/photo-1567974268441-92e06c2f5e69?w=1200&q=80)
+*Traditional architecture and canals of Gubei Water Town*
+
 Gubei Water Town is a beautifully restored traditional Chinese water town located at the base of the Simatai section of the Great Wall. It combines ancient architecture with modern tourist facilities, offering a unique overnight experience near the Great Wall.
 
 ## Overview
@@ -29,6 +32,9 @@ Gubei Water Town is a beautifully restored traditional Chinese water town locate
 - **Night Lighting**: Beautiful illumination after dark
 
 ### Simatai Great Wall
+
+![Simatai Great Wall at Night](https://images.unsplash.com/photo-1564698685737-46d5c6c99953?w=1200&q=80)
+*The illuminated Great Wall at Simatai - a unique night experience*
 
 The town provides access to the dramatic Simatai section of the Great Wall, known for its steep inclines and original features.
 

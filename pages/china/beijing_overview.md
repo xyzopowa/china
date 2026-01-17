@@ -7,6 +7,9 @@ permalink: beijing_overview.html
 summary: Comprehensive guide to visiting Beijing, China's historic capital city. Plan your visit to the Forbidden City, Great Wall, and modern districts.
 ---
 
+![Beijing Skyline](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=80)
+*Beijing's modern skyline alongside historic architecture*
+
 ## About Beijing
 
 Beijing, the capital of China, is a city where ancient history meets modern development. With over 3,000 years of history and numerous UNESCO World Heritage sites, Beijing offers travelers an incredible mix of imperial palaces, ancient temples, and contemporary culture.

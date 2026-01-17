@@ -14,6 +14,10 @@ Dongcheng District is the historic center of Beijing, home to some of China's mo
 ## Must-See Attractions
 
 ### Forbidden City (故宫)
+
+![Forbidden City](https://images.unsplash.com/photo-1529414005987-74c0f2ec0c49?w=1200&q=80)
+*The magnificent Forbidden City palace complex*
+
 **Duration**: 3-4 hours  
 **Admission**: ¥60 (April-October), ¥40 (November-March)  
 **Best Time**: Early morning to avoid crowds
@@ -39,6 +43,10 @@ The world's largest public square, witness to many significant historical events
 - National Museum of China
 
 ### Temple of Heaven (天坛)
+
+![Temple of Heaven](https://images.unsplash.com/photo-1508804476506-f596f8810506?w=1200&q=80)
+*The iconic Hall of Prayer for Good Harvests*
+
 **Duration**: 2-3 hours  
 **Admission**: ¥15 (park), ¥30 (complete ticket)
 

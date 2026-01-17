@@ -14,6 +14,10 @@ Chaoyang is Beijing's largest and most international district, representing the 
 ## Top Attractions
 
 ### 798 Art District (798艺术区)
+
+![798 Art District](https://images.unsplash.com/photo-1581895382819-0f8c63c0e3c2?w=1200&q=80)
+*Industrial-chic art galleries in former factory buildings*
+
 **Duration**: 2-3 hours  
 **Admission**: Free (individual galleries may charge)
 
@@ -29,6 +33,10 @@ A thriving contemporary art community housed in decommissioned military factorie
 **Best Time**: Weekdays for quieter browsing, weekends for events and openings
 
 ### Sanlitun (三里屯)
+
+![Sanlitun District](https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=80)
+*Modern Sanlitun shopping and entertainment district*
+
 **Duration**: 2-4 hours  
 **Best For**: Shopping, dining, nightlife
 

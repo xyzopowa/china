@@ -9,6 +9,9 @@ summary: Visit the Mutianyu section of the Great Wall, known for its beautiful s
 
 ## Mutianyu Great Wall (慕田峪长城)
 
+![Mutianyu Great Wall](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=80)
+*The majestic Mutianyu section winding through lush mountains*
+
 Mutianyu is one of the best-preserved sections of the Great Wall of China, offering stunning mountain views and a more comfortable visitor experience than the crowded Badaling section.
 
 ## Why Choose Mutianyu
@@ -45,6 +48,9 @@ Mutianyu is one of the best-preserved sections of the Great Wall of China, offer
 - **Best For**: Fitness enthusiasts, authentic experience
 
 ## Coming Down
+
+![Great Wall Toboggan](https://images.unsplash.com/photo-1583316071970-649e9a07f4fa?w=1200&q=80)
+*The fun toboggan slide down from the Great Wall*
 
 ### Toboggan Slide
 - **Cost**: ¥100 (if not included in lift combo)
