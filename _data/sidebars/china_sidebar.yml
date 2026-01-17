@@ -1,0 +1,117 @@
+# China 2026 Travel Itinerary Sidebar
+
+entries:
+- title: sidebar
+  product: China 2026
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Preparation
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Travel Planning
+      url: /preparation_planning.html
+      output: web, pdf
+
+    - title: Visa Requirements
+      url: /preparation_visa.html
+      output: web, pdf
+
+    - title: What to Pack
+      url: /preparation_packing.html
+      output: web, pdf
+
+  - title: Beijing
+    output: web, pdf
+    folderitems:
+
+    - title: Beijing Overview
+      url: /beijing_overview.html
+      output: web, pdf
+
+    - title: Dongcheng District
+      url: /beijing_dongcheng.html
+      output: web, pdf
+
+    - title: Gubei Water Town
+      url: /beijing_gubei.html
+      output: web, pdf
+
+    - title: Mutianyu Great Wall
+      url: /beijing_mutianyu.html
+      output: web, pdf
+
+    - title: Chaoyang District
+      url: /beijing_chaoyang.html
+      output: web, pdf
+
+  - title: Xian
+    output: web, pdf
+    folderitems:
+
+    - title: Xian Overview
+      url: /xian_overview.html
+      output: web, pdf
+
+    - title: Terracotta Army
+      url: /xian_terracotta.html
+      output: web, pdf
+
+    - title: Mt Huashan
+      url: /xian_huashan.html
+      output: web, pdf
+
+    - title: Xian City
+      url: /xian_city.html
+      output: web, pdf
+
+  - title: Chongqing
+    output: web, pdf
+    folderitems:
+
+    - title: Chongqing Overview
+      url: /chongqing_overview.html
+      output: web, pdf
+
+    - title: City Attractions
+      url: /chongqing_city.html
+      output: web, pdf
+
+    - title: Dining Guide
+      url: /chongqing_dining.html
+      output: web, pdf
+
+  - title: Yichang
+    output: web, pdf
+    folderitems:
+
+    - title: Yichang Overview
+      url: /yichang_overview.html
+      output: web, pdf
+
+    - title: Three Gorges Dam
+      url: /yichang_dam.html
+      output: web, pdf
+
+    - title: River Cruise
+      url: /yichang_cruise.html
+      output: web, pdf
