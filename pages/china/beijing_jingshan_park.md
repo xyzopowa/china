@@ -7,11 +7,7 @@ permalink: beijing_jingshan_park.html
 summary: Visit Jingshan Park for panoramic views of the Forbidden City and Beijing skyline.
 ---
 
-.ritz .waffle a { color: inherit; }.ritz .waffle .s0{border-right:none;background-color:#ffffff;text-align:left;color:#000000;font-family:Arial;font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}
 
-A
-
-1
 
 Trust me, when I planned our trip to Beijing, I didn’t expect to be so taken by the parks and including so many of them in this guide! We were blessed with some amazing weather when we visited Beijing and loved the incredible views and blue sky we were treated to at the very top of
 
@@ -23,14 +19,10 @@ Trust me, when I planned our trip to Beijing, I didn’t expect to be so taken b
 
 . We also spent some time wandering the gardens, soaking in nature and watching a few of the older local ladies dancing – it was really sweet.
 
-2
 
-3
 
 Right opposite the Forbidden Palace, Jingshan Park gives you an excellent vantage point over the city. Climbing to the top of the hill provides the perfect panoramic shot of Beijing’s rooftops and the ancient palace complex. This makes it a great opportunity to visit it right after visiting the Forbidden City as you exit from the North Gate and you simply have to cross the street to reach the park.
 
-4
 
-5
 
 Time Needed: 45 minutes
