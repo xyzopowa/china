@@ -72,9 +72,6 @@ entries:
       url: /beijing_xicheng.html
       output: web, pdf
 
-    - title: Nanluoguxiang (Hutongs & Night Markets)
-      url: /beijing_dongcheng.html
-      output: web, pdf
 
     - title: Day Trips from Beijing
       url: /beijing_daytrips.html
