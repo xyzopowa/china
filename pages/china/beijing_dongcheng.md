@@ -79,10 +79,36 @@ More info: [Temple of Heaven on Visit Beijing](https://r.visitbeijing.com.cn/att
 
 ## Additional Attractions
 
-- **Jingshan Park**: Best views of the Forbidden City
-- **Beihai Park**: Imperial garden with a white stupa
-- **Lama Temple**: Active Tibetan Buddhist temple
-- **Hutongs**: Traditional alleyway neighborhoods
+### Jingshan Park (景山公园)
+
+![Jingshan Park view](/images/beijing/jingshan_view.jpg)
+
+Located immediately north of the Forbidden City, Jingshan Park offers a short climb to a hilltop vantage point with panoramic views over the palace roofs and Beijing's central axis. It's an ideal photo stop after exiting the Forbidden City via the north gate.
+
+**Time Needed**: ~45 minutes
+
+Tips:
+- Small entry fee applies; plan it immediately after the Forbidden City visit.
+- Great at sunrise or late afternoon for soft light and fewer people.
+
+More info: [Jingshan Park on Visit Beijing](https://r.visitbeijing.com.cn/attraction/321)
+
+### Nanluoguxiang (South Gate Hutong / 南锣鼓巷)
+
+![Nanluoguxiang street](/images/beijing/nanluoguxiang.jpg)
+
+Nanluoguxiang is one of Beijing's most photographed hutong streets — a compact, atmospheric alleyway full of shops, snacks, and photo opportunities. Wander the side lanes to find quieter courtyards and independent cafés.
+
+Highlights & practicals:
+- **Hutong exploration**: colourful lanes, historic architecture, boutique shops.
+- **Night markets**: lively evening stalls with street food and souvenirs.
+- **Best time**: late afternoon into early evening; arrive earlier on weekends to avoid crowds.
+
+Tips:
+- Try local snacks and small-plate stalls along the lane.
+- If you need quieter photos, explore the side alleys rather than the main drag.
+
+See: [Nanluoguxiang TripAdvisor listing](https://www.tripadvisor.com/Attraction_Review-g294212-d668414-Reviews-Nanluoguxiang-Beijing.html)
 
 ### Bell & Drum Tower (钟鼓楼) — Expanded
 
