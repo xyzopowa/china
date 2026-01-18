@@ -9,7 +9,7 @@ summary: Taste Guilin's famous rice noodles and Guangxi specialties.
 
 ## Guilin Cuisine
 
-.ritz .waffle a { color: inherit; }.ritz .waffle .s4{background-color:#ffffff;text-align:left;color:#000000;font-family:docs-fkGroteskNeue,Arial;font-size:12pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{border-right:none;background-color:#ffffff;text-align:left;color:#000000;font-family:Arial;font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s2{border-right:none;background-color:#ffffff;text-align:left;color:#000000;font-family:docs-fkGroteskNeue,Arial;font-size:12pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s1{border-right:none;background-color:#ffffff;text-align:left;color:#000000;font-family:docs-fkGroteskNeue,Arial;font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s3{background-color:#ffffff;text-align:left;color:#000000;font-family:docs-fkGroteskNeue,Arial;font-size:10pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}
+
 
 Départ pour une promenade autour des quatre lacs, bordés d'arbres précieux, de kiosques élégants,
 

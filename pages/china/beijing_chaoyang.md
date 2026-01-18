@@ -15,7 +15,7 @@ Chaoyang is Beijing's largest and most international district, representing the 
 
 ### 798 Art District (798艺术区)
 
-![798 Art District](https://images.unsplash.com/photo-1581895382819-0f8c63c0e3c2?w=1200&q=80)
+![798 Art District](/images/beijing/taikooli.jpg)
 *Industrial-chic art galleries in former factory buildings*
 
 **Duration**: 2-3 hours  
@@ -24,11 +24,6 @@ Chaoyang is Beijing's largest and most international district, representing the 
 A thriving contemporary art community housed in decommissioned military factories from the 1950s. The district features galleries, studios, cafes, and boutiques.
 
 **Highlights**:
-- **Galleries**: Rotating exhibitions from Chinese and international artists
-- **Street Art**: Impressive murals and installations
-- **Design Shops**: Unique home goods and fashion
-- **Cafes**: Trendy spots for coffee and lunch
-- **Photography**: Industrial-chic architecture
 
 **Best Time**: Weekdays for quieter browsing, weekends for events and openings
 
@@ -37,6 +32,15 @@ A thriving contemporary art community housed in decommissioned military factorie
 ![Sanlitun District](https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=80)
 *Modern Sanlitun shopping and entertainment district*
 
+
+### 798 Art District — Additional Notes
+
+The 798 Art District is your go-to destination for contemporary art and culture in Beijing. Located in a converted complex of former military electronics factories, the area hosts galleries, studios, cafes and design shops. If you prefer modern culture to temples and palaces, 798 offers a compact, walkable experience with frequent exhibitions, pop-up events and a lively café scene. Support local artists by browsing galleries and small shops, or simply enjoy street art and architecture while taking photographs.
+
+[More on Wikipedia](https://en.wikipedia.org/wiki/798_Art_Zone)
+
+<!-- Link to original 798 page -->
+[Official site (archival/guide)](http://www.798district.com)
 **Duration**: 2-4 hours  
 **Best For**: Shopping, dining, nightlife
 

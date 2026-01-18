@@ -7,23 +7,9 @@ permalink: beijing_stay.html
 summary: Find the perfect accommodation in Beijing with our guide to the best neighborhoods and hotels.
 ---
 
-.ritz .waffle a { color: inherit; }.ritz .waffle .s1{background-color:#ffffff;text-align:left;font-weight:bold;color:#000000;font-family:Arial;font-size:18pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{border-right:none;background-color:#ffffff;text-align:left;font-weight:bold;color:#000000;font-family:Arial;font-size:18pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}
-
-A
-
-1
-
-2
-
-3
-
-4
 
 Where to stay in Beijing
 
-5
-
-6
 
 Beijing is a sprawling city, so where you stay can really shape your experience. If you’re keen to be close to the big-ticket sights like the
 

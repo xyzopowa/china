@@ -60,83 +60,24 @@ entries:
       url: /beijing_culinary.html
       output: web, pdf
 
-    - title: Forbidden City
-      url: /beijing_forbidden_city.html
-      output: web, pdf
-
-    - title: Dongcheng District
+    - title: Dongcheng District (historic core)
       url: /beijing_dongcheng.html
       output: web, pdf
 
-    - title: Tiananmen Square
-      url: /beijing_tiananmen.html
-      output: web, pdf
-
-    - title: Temple of Heaven
-      url: /beijing_temple_heaven.html
-      output: web, pdf
-
-    - title: Summer Palace
-      url: /beijing_summer_palace.html
-      output: web, pdf
-
-    - title: Beihai Park
-      url: /beijing_beihai_park.html
-      output: web, pdf
-
-    - title: Jingshan Park
-      url: /beijing_jingshan_park.html
-      output: web, pdf
-
-    - title: Bell & Drum Tower
-      url: /beijing_bell_drum_tower.html
-      output: web, pdf
-
-    - title: Hutongs
-      url: /beijing_hutongs.html
-      output: web, pdf
-
-    - title: 798 Art Zone
-      url: /beijing_798_art.html
-      output: web, pdf
-
-    - title: Chaoyang District
+    - title: Chaoyang District (modern & 798)
       url: /beijing_chaoyang.html
       output: web, pdf
 
-    - title: Night Markets
-      url: /beijing_night_markets.html
+    - title: Xicheng District (parks & hutongs)
+      url: /beijing_xicheng.html
       output: web, pdf
 
-    - title: Shopping
-      url: /beijing_shopping.html
-      output: web, pdf
-
-    - title: Mutianyu Great Wall
-      url: /beijing_mutianyu.html
-      output: web, pdf
-
-    - title: Gubei Water Town
-      url: /beijing_gubei.html
-      output: web, pdf
 
     - title: Day Trips from Beijing
       url: /beijing_daytrips.html
       output: web, pdf
 
-  - title: Pingyao
-    output: web, pdf
-    folderitems:
-
-    - title: Pingyao Overview
-      url: /pingyao_overview.html
-      output: web, pdf
-
-    - title: Ancient City
-      url: /pingyao_ancient_city.html
-      output: web, pdf
-
-  - title: Datong
+  - title: Datong [Optional]
     output: web, pdf
     folderitems:
 
@@ -150,6 +91,18 @@ entries:
 
     - title: Yungang Grottoes
       url: /datong_yungang.html
+      output: web, pdf
+
+  - title: Pingyao [Optional]
+    output: web, pdf
+    folderitems:
+
+    - title: Pingyao Overview
+      url: /pingyao_overview.html
+      output: web, pdf
+
+    - title: Ancient City
+      url: /pingyao_ancient_city.html
       output: web, pdf
 
   - title: Xi'an
@@ -192,7 +145,7 @@ entries:
       url: /xian_huashan.html
       output: web, pdf
 
-  - title: Chengdu
+  - title: Chengdu [Optional]
     output: web, pdf
     folderitems:
 
@@ -256,7 +209,27 @@ entries:
       url: /chongqing_dining.html
       output: web, pdf
 
-  - title: Yichang
+  - title: Yangtze River Cruise
+    output: web, pdf
+    folderitems:
+
+    - title: Cruise Overview
+      url: /yangtze_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /yangtze_preparation.html
+      output: web, pdf
+
+    - title: Cabin Selection
+      url: /yangtze_stay.html
+      output: web, pdf
+
+    - title: Dining Guide
+      url: /yangtze_culinary.html
+      output: web, pdf
+
+  - title: Yichang [Optional]
     output: web, pdf
     folderitems:
 
@@ -270,6 +243,98 @@ entries:
 
     - title: River Cruise
       url: /yichang_cruise.html
+      output: web, pdf
+
+  - title: Zhangjiajie
+    output: web, pdf
+    folderitems:
+
+    - title: Zhangjiajie Overview
+      url: /zhangjiajie_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /zhangjiajie_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /zhangjiajie_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /zhangjiajie_culinary.html
+      output: web, pdf
+
+  - title: Guilin
+    output: web, pdf
+    folderitems:
+
+    - title: Guilin Overview
+      url: /guilin_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /guilin_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /guilin_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /guilin_culinary.html
+      output: web, pdf
+
+    - title: Li River Cruise
+      url: /guilin_li_river.html
+      output: web, pdf
+
+    - title: Reed Flute Cave
+      url: /guilin_reed_flute.html
+      output: web, pdf
+
+    - title: Yangshuo Day Trip
+      url: /guilin_yangshuo.html
+      output: web, pdf
+
+  - title: Guangzhou
+    output: web, pdf
+    folderitems:
+
+    - title: Guangzhou Overview
+      url: /guangzhou_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /guangzhou_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /guangzhou_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /guangzhou_culinary.html
+      output: web, pdf
+
+  - title: Shenzhen
+    output: web, pdf
+    folderitems:
+
+    - title: Shenzhen Overview
+      url: /shenzhen_overview.html
+      output: web, pdf
+
+    - title: Preparation & Tickets
+      url: /shenzhen_preparation.html
+      output: web, pdf
+
+    - title: Where to Stay
+      url: /shenzhen_stay.html
+      output: web, pdf
+
+    - title: Culinary Guide
+      url: /shenzhen_culinary.html
       output: web, pdf
 
   - title: Shanghai
@@ -336,34 +401,3 @@ entries:
       url: /shanghai_hangzhou.html
       output: web, pdf
 
-  - title: Guilin
-    output: web, pdf
-    folderitems:
-
-    - title: Guilin Overview
-      url: /guilin_overview.html
-      output: web, pdf
-
-    - title: Preparation & Tickets
-      url: /guilin_preparation.html
-      output: web, pdf
-
-    - title: Where to Stay
-      url: /guilin_stay.html
-      output: web, pdf
-
-    - title: Culinary Guide
-      url: /guilin_culinary.html
-      output: web, pdf
-
-    - title: Li River Cruise
-      url: /guilin_li_river.html
-      output: web, pdf
-
-    - title: Reed Flute Cave
-      url: /guilin_reed_flute.html
-      output: web, pdf
-
-    - title: Yangshuo Day Trip
-      url: /guilin_yangshuo.html
-      output: web, pdf
